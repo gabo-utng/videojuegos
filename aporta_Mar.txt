@@ -1,0 +1,8 @@
+
+
+
+copy con aporta_mar.txt
+
+
+
+git add --all
